@@ -1,0 +1,34 @@
+{
+  "name": "@nuscout/eslint-config",
+  "private": false,
+  "version": "0.1.1",
+  "description": "Scout's default ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scout-NU/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "scout",
+    "design",
+    "studio",
+    "development",
+    "config"
+  ],
+  "author": "aem <amarkon895@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scout-NU/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Scout-NU/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^4.15.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  },
+  "dependencies": {
+    "eslint-plugin-prettier": "^2.5.0"
+  }
+}
