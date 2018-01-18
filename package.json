@@ -1,5 +1,6 @@
 {
-  "name": "@scout/eslint-config",
+  "name": "@nuscout/eslint-config",
+  "private": false,
   "version": "0.1.0",
   "description": "Scout's default ESLint config",
   "main": "index.js",
