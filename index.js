@@ -1,13 +1,17 @@
 module.exports = {
   plugins: ['prettier'],
   env: { es6: true },
+  parser: 'babel-eslint',
+  parserOptions: {
+    sourceType: 'module'
+  },
   rules: {
     'prettier/prettier': [
       'error',
       {
         singleQuote: true,
         bracketSpacing: true,
-        trailingComma: 'none',
+        trailingComma: 'es5',
         printWidth: 80,
         tabWidth: 2,
         useTabs: false,

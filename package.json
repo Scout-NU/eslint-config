@@ -1,7 +1,7 @@
 {
   "name": "@nuscout/eslint-config",
   "private": false,
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Scout's default ESLint config",
   "main": "index.js",
   "repository": {
@@ -22,13 +22,10 @@
     "url": "https://github.com/Scout-NU/eslint-config/issues"
   },
   "homepage": "https://github.com/Scout-NU/eslint-config#readme",
-  "peerDependencies": {
-    "eslint": "^4.15.0"
-  },
-  "devDependencies": {
-    "prettier": "^1.10.2"
-  },
   "dependencies": {
-    "eslint-plugin-prettier": "^2.5.0"
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-plugin-prettier": "^2.5.0",
+    "prettier": "^1.10.2"
   }
 }
