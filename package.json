@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Scout-NU/eslint-config#readme",
   "dependencies": {
+    "@nuscout/prettier-config": "^0.1.0",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
     "eslint-plugin-prettier": "^2.5.0",
