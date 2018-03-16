@@ -1,6 +1,6 @@
 # eslint-config
 
-Scout's official [`prettier`](https://prettier.io) configuration.
+Scout's official [`eslint`](https://eslint.org/) configuration.
 
 ## Table of Contents
 
