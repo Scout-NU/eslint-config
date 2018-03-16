@@ -1,17 +1,5 @@
 # eslint-config
-[Scout's](http://neu.edu/scout) base ESLint configuration. The config is an extension of [Prettier's](https://github.com/prettier/prettier) ESLint config, with the following settings:
-
-```json
-{
-  "singleQuote": true,
-  "bracketSpacing": true,
-  "trailingComma": "none",
-  "printWidth": 80,
-  "tabWidth": 2,
-  "useTabs": false,
-  "semi": true
-}
-```
+[Scout's](http://neu.edu/scout) base ESLint configuration. The config is an extension of [Prettier's](https://github.com/prettier/prettier) ESLint config, with the settings specified in our [Prettier configuration](https://npm.im/@nuscout/prettier-config).
 
 ### About Scout
 ![Scout logo](https://web.northeastern.edu/scout/wp-content/themes/scout/images/logo.png)
